@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CounterApp</string>
+    <string name="toast">TOAST</string>
+    <string name="count_up">Count Up</string>
+    <string name="count_down">Count Down</string>
+    <string name="number">Number</string>
+</resources>
